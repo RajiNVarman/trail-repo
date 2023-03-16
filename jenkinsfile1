@@ -1,5 +1,0 @@
-@Library('Groovy-Script-sample@main') _
-node
-{
-  myfirstcode("successful")
-}
