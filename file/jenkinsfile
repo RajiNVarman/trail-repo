@@ -1,4 +1,4 @@
-@Library('Groovy-Script-sample@main') _
+@Library('DevOps_Library@main') _
 node
 {
   myfirstcode("successful")
